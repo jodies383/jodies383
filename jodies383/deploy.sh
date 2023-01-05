@@ -18,6 +18,6 @@ git add -A
 git commit -m 'deploy'
 
 # Add your GitHub repo details here
-git push -f https://https://github.com/jodies383/jodies383.git main:gh-pages
+git push -f https://github.com/jodies383/jodies383.git main:gh-pages
 
 cd -
